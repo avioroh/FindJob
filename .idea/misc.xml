@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/user/AndroidStudioProjects/Hello/app/src/main/res/drawable/background_color.xml" value="0.198" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Hello/app/src/main/res/drawable/round_et.xml" value="0.1885" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Hello/app/src/main/res/drawable/vector_gmail.xml" value="0.2085" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Hello/app/src/main/res/drawable/vector_pass.xml" value="0.2085" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Hello/app/src/main/res/layout-land/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Hello/app/src/main/res/layout-large/activity_main.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Hello/app/src/main/res/layout/activity_category_info.xml" value="0.2975630611372381" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Hello/app/src/main/res/layout/activity_choose_aprofession.xml" value="0.33" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Hello/app/src/main/res/layout/activity_cv.xml" value="0.22" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Hello/app/src/main/res/layout/activity_cv_candidate.xml" value="0.2975630611372381" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Hello/app/src/main/res/layout/activity_cv_employee.xml" value="0.24096385542168675" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Hello/app/src/main/res/layout/activity_employee_or_candidate.xml" value="0.2932877297990594" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Hello/app/src/main/res/layout/activity_existing_jobs.xml" value="0.2941427960666952" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Hello/app/src/main/res/layout/activity_homepage.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Hello/app/src/main/res/layout/activity_inside_job.xml" value="0.2975630611372381" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Hello/app/src/main/res/layout/activity_inside_job_candidate.xml" value="0.2975630611372381" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Hello/app/src/main/res/layout/activity_jobs.xml" value="0.2932877297990594" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Hello/app/src/main/res/layout/activity_jobs_existing.xml" value="0.29713552800342025" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Hello/app/src/main/res/layout/activity_jobs_list.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Hello/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Hello/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Hello/app/src/main/res/layout/activity_matala_doron.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Hello/app/src/main/res/layout/activity_reset_password.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Hello/app/src/main/res/layout/activity_signup.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Hello/app/src/main/res/layout/activity_up_new_job.xml" value="0.29713552800342025" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Hello/app/src/main/res/layout/activity_up_new_job_details.xml" value="0.2860196665241556" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Hello/app/src/main/res/layout/activity_up_new_job_or_watch_job_existing.xml" value="0.2975630611372381" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Hello/app/src/main/res/layout/activity_upadte_existing_job.xml" value="0.2941427960666952" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Hello/app/src/main/res/layout/custom.xml" value="0.2975630611372381" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Hello/app/src/main/res/layout/custom_row.xml" value="0.29379485014774165" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Hello/app/src/main/res/menu/main_menu.xml" value="0.2975630611372381" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

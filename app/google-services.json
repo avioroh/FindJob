@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "228466152771",
+    "project_id": "mlmlogin-188ab",
+    "storage_bucket": "mlmlogin-188ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228466152771:android:d76717e6339430ddb88bf6",
+        "android_client_info": {
+          "package_name": "com.example.hello"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228466152771-8ahm2klh2hlqt6uf8ef5406dnreggegh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvrrnIGhoN-lF0BGZLkXKNqZfmMImeDQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228466152771-8ahm2klh2hlqt6uf8ef5406dnreggegh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

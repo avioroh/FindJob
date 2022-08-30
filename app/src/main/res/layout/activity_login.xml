@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+    tools:context=".login"
+    >
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:textSize="50sp"
+        android:gravity="center"
+        android:textColor="@android:color/white"
+        android:text="Login" />
+
+    <EditText
+        android:id="@+id/editTextEmailAddress"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/round_et"
+        android:drawableLeft="@drawable/vector_gmail"
+        android:drawablePadding="5dp"
+        android:ems="10"
+        android:hint="Your Email"
+        android:inputType="textEmailAddress"
+        android:minHeight="48dp"
+        android:paddingLeft="10dp"
+        android:textColor="#000000"
+        android:textColorHighlight="#999"
+        android:textSize="30sp" />
+
+    <EditText
+        android:id="@+id/editTextTextPassAddress"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/round_et"
+        android:drawableLeft="@drawable/vector_pass"
+        android:drawablePadding="5dp"
+        android:ems="10"
+        android:hint="Your Password"
+        android:inputType="textPassword"
+        android:minHeight="48dp"
+        android:paddingLeft="10dp"
+        android:textColor="#000000"
+        android:textColorHighlight="#999"
+        android:textSize="30sp"
+
+        />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="200dp"
+        android:layout_height="80dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:onClick="signIn"
+        android:text="SignIn"
+        android:textSize="20sp"
+
+        />
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="200dp"
+        android:layout_height="80dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:onClick="moveToSignup"
+        android:textSize="20sp"
+        android:text="Sign Up"
+
+        />
+
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="200dp"
+        android:layout_height="80dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:onClick="moveToReset"
+        android:textSize="20sp"
+        android:text="reset password"
+
+        />
+
+
+</LinearLayout>
